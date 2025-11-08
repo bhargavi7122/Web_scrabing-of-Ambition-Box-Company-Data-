@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Libraries-BeautifulSoup%20%7C%20Pandas%20%7C%20Seaborn-Matplot-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Libraries-BeautifulSoup%20%7C%20Pandas%20%7C%20Seaborn-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Company%20Analysis%20%7C%20EDA-green?style=for-the-badge"/>
 </p>
 
